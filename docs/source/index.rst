@@ -6,7 +6,7 @@ that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
-Lumache hosts its documentation on Read the Docs. They are kept in small box marked: PRIVATE!
+Lumache hosts its documentation on Read the Docs. They are kept in small box marked: PRIVATE! It's not locked most of the time but by GOD if anyone opens it we shall know! 
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.

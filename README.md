@@ -4,7 +4,7 @@ Code from the below [readthedocs.io](https://docs.readthedocs.io/en/stable/tutor
 
 Built pages can be viewed from either:
  - [Read the Docs](https://keith-taylor-rtd-tutorial.readthedocs.io/en/latest/index.html#)
- - [GitHub pages](https://github.com/keith-taylor/read-the-docs-tutorial/deployments/github-pages)
+ - [GitHub pages](https://keith-taylor.github.io/read-the-docs-tutorial/)
 
 <img src="img/rtd_tutorial_title.png" style="zoom:100%;" />
 
